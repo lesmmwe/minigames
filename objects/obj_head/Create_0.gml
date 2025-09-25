@@ -1,2 +1,4 @@
 image_speed = 0
-image_index = choose(1,2,3)
+alpha = 1
+alpha_speed = 0.1
+selected = 0

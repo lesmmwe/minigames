@@ -1,0 +1,1 @@
+heads = 100 + (5 * global.level)

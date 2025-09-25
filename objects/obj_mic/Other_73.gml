@@ -1,5 +1,5 @@
 ///Get audio volume
-len = async_load[? "data_len"];
+var len = async_load[? "data_len"];
 buffer_seek(audio_buffer,buffer_seek_start,0);
 buffer_copy(async_load[? "buffer_id"], 0, len, audio_buffer, 0);
 
