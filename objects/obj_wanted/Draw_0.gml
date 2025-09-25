@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_GIANT_player,global.wanted_player,480,119,1,1,0,c_white,1)

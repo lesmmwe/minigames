@@ -1,0 +1,1 @@
+global.wanted_player = irandom(3)
