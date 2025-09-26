@@ -9,8 +9,8 @@ if image_index == global.wanted_player {
 		if image_index != global.wanted_player
 		instance_destroy()
 	}
+	
 	global.stop_timer = 1
-	global.level += 1
 	global.time += 5
 	
 	selected = 2 // spawn bg

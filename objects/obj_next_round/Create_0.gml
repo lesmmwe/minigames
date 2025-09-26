@@ -1,4 +1,5 @@
 global.wanted_player = irandom(3)
+global.level += 1
 
 with (obj_head_spawners)
 alarm[0] = 180

@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_casino_wait.mp3",
+  "soundFile": "snd_casino_wait.ogg",
   "type": 0,
-  "volume": 0.54,
+  "volume": 1.0,
 }

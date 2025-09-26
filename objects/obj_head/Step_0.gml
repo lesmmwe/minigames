@@ -1,4 +1,4 @@
-if global.level >= 10 {
+if global.level >= 10 && global.stop_timer == 0 {
     x += vx
     y += vy
 
