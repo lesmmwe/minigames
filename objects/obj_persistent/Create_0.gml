@@ -1,5 +1,5 @@
 randomize()
-game_set_speed(60,fps)
+game_set_speed(60,fps_real)
 
 global.name = "0" // ur name
 
@@ -15,3 +15,4 @@ global.font_numbers = font_add_sprite(spr_numbers, ord("0"), true, 0);
 
 // wanted variables
 global.wanted_player = 0 
+global.head_direction = []
